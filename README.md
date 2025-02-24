@@ -1,4 +1,4 @@
-Matvey, [27.12.2024 15:18]
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
